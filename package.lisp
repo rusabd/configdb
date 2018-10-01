@@ -1,0 +1,2 @@
+(defpackage :configdb
+  (:use :cl))
